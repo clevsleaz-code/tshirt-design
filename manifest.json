@@ -1,7 +1,7 @@
 {
-  "name": "티셔츠 디자인 스튜디오",
-  "short_name": "티셔츠디자인",
-  "description": "펜으로 티셔츠와 의류를 디자인하는 개인용 앱",
+  "name": "Longbook",
+  "short_name": "Longbook",
+  "description": "펜으로 그리고 의류에 디자인하는 개인용 앱",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
