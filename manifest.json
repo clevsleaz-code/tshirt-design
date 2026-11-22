@@ -1,0 +1,14 @@
+{
+  "name": "티셔츠 디자인 스튜디오",
+  "short_name": "티셔츠디자인",
+  "description": "펜으로 티셔츠와 의류를 디자인하는 개인용 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2b2d31",
+  "theme_color": "#2b2d31",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
